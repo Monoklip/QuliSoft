@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/QuliSoft/static/css/main.63a94412.css",
-    "main.js": "/QuliSoft/static/js/main.f9dd15e8.js",
+    "main.js": "/QuliSoft/static/js/main.12912689.js",
     "index.html": "/QuliSoft/index.html",
     "main.63a94412.css.map": "/QuliSoft/static/css/main.63a94412.css.map",
-    "main.f9dd15e8.js.map": "/QuliSoft/static/js/main.f9dd15e8.js.map"
+    "main.12912689.js.map": "/QuliSoft/static/js/main.12912689.js.map"
   },
   "entrypoints": [
     "static/css/main.63a94412.css",
-    "static/js/main.f9dd15e8.js"
+    "static/js/main.12912689.js"
   ]
 }

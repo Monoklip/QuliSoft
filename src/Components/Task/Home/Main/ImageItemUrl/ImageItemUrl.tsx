@@ -11,7 +11,7 @@ const ImageItemUrl = (props: {elem: { urls: { full: string; }; user: { name: str
     return(
         <div className='ImageItemUrl'>
             <div className="ImageItemUrl-name">
-                <Link to={'/'}>
+                <Link to={'/QuliSoft'}>
                     <img src='https://img.icons8.com/fluency/1x/reply-arrow.png' alt="" />
                 </Link>
                 <h4>{name}</h4>

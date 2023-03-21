@@ -23,7 +23,7 @@ const Task = () => {
 
     return(
         <Routes>
-            <Route path='/' element={<Home dataImage={dataImage}/>}></Route>
+            <Route path='/QuliSoft' element={<Home dataImage={dataImage}/>}></Route>
             {dataImage.map((elem: { urls: { full: string; }; user: { name: string; }; id: number; } ) => {
                 return <Route path={`/image/${elem.user.name}/${elem.id}`} element={<ImageItemUrl elem={elem} key={elem.id}/>}></Route>
             })}

@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuliSoft/static/css/main.63a94412.css",
+    "main.js": "/QuliSoft/static/js/main.eb3b5682.js",
+    "index.html": "/QuliSoft/index.html",
+    "main.63a94412.css.map": "/QuliSoft/static/css/main.63a94412.css.map",
+    "main.eb3b5682.js.map": "/QuliSoft/static/js/main.eb3b5682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63a94412.css",
+    "static/js/main.eb3b5682.js"
+  ]
+}
